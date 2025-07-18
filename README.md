@@ -1,6 +1,6 @@
-![Foundry Data & AI Academy Logo](/images/FoundryAI_academy_logo_on_yellow_space.png)
+![Foundry AI Academy Logo](/images/FoundryAI_academy_logo_on_yellow_space.png)
 
-# Foundry Data & AI Academy - Content Network (Public)
+# Foundry AI Academy - Content Network (Public)
 
 👋 Welcome to our Foundry CDN - Public Hub!
 
